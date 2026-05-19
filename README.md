@@ -12,16 +12,16 @@ A clean, responsive desktop application built with Python and PyQt5 that display
 * **Language:** Python 3
 * **GUI Framework:** PyQt5
 * **Networking:** Requests (HTTP Library)
+ 
 
-## Setup and Installation
 
 ## Setup and Installation
 
 1. Clone the repository:
    ```bash
-   git clone 
-   https://github.com
+   git clone https://github.com
    ```
+
 
 2. Install dependencies:
    ```bash
