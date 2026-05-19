@@ -19,7 +19,7 @@ A clean, responsive desktop application built with Python and PyQt5 that display
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Dagiabel/pyqt5-weather-app.git
    ```
 
 
