@@ -1,2 +1,34 @@
-# pyqt5-weather-app
-This project is a lightweight, responsive desktop application built with Python that provides real-time weather information for any city worldwide. The application features a custom, modern graphical user interface (GUI) designed from scratch and integrates directly with a live external REST API to fetch up-to-date meteorological data.
+# PyQt5 Desktop Weather Application
+
+A clean, responsive desktop application built with Python and PyQt5 that displays real-time weather information using the OpenWeatherMap REST API. 
+
+## Features
+* **Live Data Fetching:** Fetches temperature, weather conditions, and icons globally.
+* **Smart Day/Night Detection:** Automatically toggles between daytime (☀️) and nighttime (🌙) emojis based on the target city's local time.
+* **Robust Error Handling:** Handles timeouts, network disconnections, and invalid city names (HTTP 404 errors) gracefully without crashing.
+* **Modern QSS Styling:** Custom desktop interface styled with CSS-like stylesheet rules.
+
+## Tech Stack
+* **Language:** Python 3
+* **GUI Framework:** PyQt5
+* **Networking:** Requests (HTTP Library)
+
+## Setup and Installation
+
+## Setup and Installation
+
+1. Clone the repository:
+   ```bash
+   git clone 
+   https://github.com
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install PyQt5 requests
+   ```
+3. Run the application:
+   ```bash
+   python weather_app.py
+   ```
+
